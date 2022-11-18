@@ -39,22 +39,23 @@ class Car(Vehicle):
 
 
 if __name__ == "__main__":
-    # v1 = Vehicle("Fusion 110 EX", "Walton", "Black")
-    # v2 = Vehicle("Softail Delux", "Harey-Davidson", "Blue")
-    # v3 = Vehicle("Infiniti QX50", "Nissan", "Red")
+    v1 = Vehicle("Fusion 110 EX", "Walton", "Black")
+    v2 = Vehicle("Softail Delux", "Harey-Davidson", "Blue")
+    v3 = Vehicle("Infiniti QX50", "Nissan", "Red")
 
-    # v1.drive()
-    # v2.drive()
-    # v3.drive()
+    v1.drive()
+    v2.drive()
+    v3.drive()
 
-    # v1.turn("left")
-    # v2.turn("right")
+    v1.turn("left")
+    v2.turn("right")
 
-    # v1.brake()
-    # v2.brake()
-    # v3.brake()
+    v1.brake()
+    v2.brake()
+    v3.brake()
 
     c = Car("Mustang 5.0 GT Coupe","Ford","Red", 2017)
-    # c.drive()
-    # c.brake()
+    
+    c.drive()
+    c.brake()
     c.change_gear("p")
