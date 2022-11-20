@@ -25,11 +25,11 @@ class Car(Vehicle):
         self.name = name
         self.manufacturer = manufacturer
         self.color = color
-        self.year = year
+        self.year = 2016
         self.wheels = 4
         print("A new car has  been created. Name:",self.name)
         print("It has",self.wheels,"wheel")
-        print("The car was built in", year)
+        print("The car was built in", self.year)
     
     def change_gear(self,gear_name):
         """Method for changing gear"""
