@@ -31,9 +31,9 @@ class Car(Vehicle):
         print("It has",self.wheels,"wheel")
         print("The car was built in", year)
     
-    def change_gear(gear_name):
+    def change_gear(self,gear_name):
         """Method for changing gear"""
-        print("is chaning gear to",gear_name)
+        print(self.name,"is chaning gear to",gear_name)
 
 
 
