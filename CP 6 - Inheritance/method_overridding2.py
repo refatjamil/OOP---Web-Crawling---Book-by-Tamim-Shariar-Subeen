@@ -22,20 +22,7 @@ class Car(Vehicle):
         self.wheels = 4
 
 if __name__ == "__main__":
-    
-    v = Vehicle("rifat","pop","brown")
-    print(v.name)
-    print(v.turn("r"))
 
-    c = Car("Mustang 5.0 GT Coupe","Ford","Red",2016)
+    c = Car("Mustang 5.0 GT Coupe","Ford","Red",2017)
     print(c.name,c.year,c.wheels)
 
-
-    print(len(dir(Car)),"Car")
-    print(dir(Car))
-    
-    print(len(dir(c)),"c")
-    print(dir(c))
-
-    print(len(dir(Vehicle)),"Vehicle")
-    print(dir(Vehicle))    
