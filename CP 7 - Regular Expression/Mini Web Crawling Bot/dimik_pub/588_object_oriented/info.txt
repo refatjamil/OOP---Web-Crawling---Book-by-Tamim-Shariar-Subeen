@@ -1,0 +1,5 @@
+Book Name: অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং
+
+URL: http://dimik.pub/book/588/object-oriented-programming
+
+Image URL: http://dimik.pub/wp-content/uploads/2021/03/OOP-outlined_Front-Cover.png
