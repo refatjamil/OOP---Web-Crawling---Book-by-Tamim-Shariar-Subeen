@@ -1,5 +1,0 @@
-Book Name: এথিক্যাল হ্যাকিং : ওয়েব অ্যাপ্লিকেশন পেনিট্রেশন টেস্টিং
-
-URL: http://dimik.pub/book/572/ethical-hacking-web-application-penetration-testing
-
-Image URL: http://dimik.pub/wp-content/uploads/2021/01/ethical_hack.png
