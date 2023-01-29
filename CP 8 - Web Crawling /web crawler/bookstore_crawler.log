@@ -1,0 +1,2 @@
+01/29/2023 11:18:26: PM Starting new HTTP connection (1): books.toscrape.com:80
+01/29/2023 11:18:26: PM http://books.toscrape.com:80 "GET /index.html HTTP/1.1" 200 51294
